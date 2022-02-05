@@ -6,5 +6,5 @@
 
 ```
 
-- Git link: [Link](https://nyyu.github.io/01-Test/frontEndMentor-qrCodeComponent); 
+- Git link: [Link](https://nyyu.github.io/frontEndMentor-qrCodeComponent/); 
 - FrontEnd Mentor: [Link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H);
