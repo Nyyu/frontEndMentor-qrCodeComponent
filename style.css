@@ -7,9 +7,9 @@
 - Grayish blue: hsl(220, 15%, 55%)
 - Dark blue: hsl(218, 44%, 22%)
 
-:root { --height: 100%; }
-
 */
+
+:root { --height: calc(100vh - 20px); }
 
 * {
     font-family: 'Outfit', sans-serif;
@@ -18,7 +18,7 @@
 body {
     background-color:hsl(212, 45%, 89%);
 
-    height: calc(100vh - 20px);
+    height: var(--height);
 
     text-align: center;
     display: flex;
@@ -56,6 +56,11 @@ main div {
     border-radius: 25px;
     padding: 20px;
     box-shadow: 5px 5px 15px 0 rgba(13, 13, 14, 0.123);
+}
+
+footer {
+    position: absolute;
+    margin-top: var(--height);
 }
 
 @media (min-width: 385px ) {
