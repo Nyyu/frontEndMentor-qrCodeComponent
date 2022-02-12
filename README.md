@@ -3,8 +3,8 @@
 ## Table 
 
 - [Preview](#preview)
- - [Prints](#prints)
  - [Links](#links)
+ - [Prints](#prints)
 
 ## Preview
 
