@@ -7,10 +7,9 @@
 - Grayish blue: hsl(220, 15%, 55%)
 - Dark blue: hsl(218, 44%, 22%)
 
+:root { --height: 100%; }
+
 */
-:root {
-    --height: 100%;
-}
 
 * {
     font-family: 'Outfit', sans-serif;
