@@ -15,7 +15,7 @@
 
 ### Prints
 
-<p align="center" style="border-radius: 5px;">
+<p align="center">
   <img src="preview/Mobile.png" alt="mobile preview"/>
 </p>
 
