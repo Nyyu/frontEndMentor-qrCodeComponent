@@ -8,12 +8,14 @@
 
 ## Preview
 
-### Prints
-
-![Mobile version](preview/Mobile.png)
-![Computer version](preview/Computer.png)
-
 ### Links
 
 - Preview: [Link](https://nyyu.github.io/frontEndMentor-qrCodeComponent/);
 - FrontEnd Mentor: [Link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H);
+
+### Prints
+
+<div style="margin: 5px auto;">
+  <img src="preview/Mobile.png" alt="mobile preview"/>
+</div>
+![Computer version](preview/Computer.png)
