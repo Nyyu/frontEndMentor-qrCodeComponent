@@ -15,7 +15,7 @@
 
 ### Prints
 
-<div style="margin: 5px auto;">
+<p align="center">
   <img src="preview/Mobile.png" alt="mobile preview"/>
-</div>
+</p>
 ![Computer version](preview/Computer.png)
