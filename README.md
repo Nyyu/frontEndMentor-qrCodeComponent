@@ -18,4 +18,5 @@
 <p align="center">
   <img src="preview/Mobile.png" alt="mobile preview"/>
 </p>
+
 ![Computer version](preview/Computer.png)
