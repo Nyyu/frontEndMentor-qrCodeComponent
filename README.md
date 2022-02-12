@@ -7,3 +7,4 @@
 ```
 
 - FrontEnd Mentor: [Link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H);
+- [Link](https://nyyu.github.io/frontEndMentor-qrCodeComponent/);
