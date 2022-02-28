@@ -1,4 +1,4 @@
-# QR Code Component (Newbie lvl)
+# QR Code Component
 
 ## Table 
 
